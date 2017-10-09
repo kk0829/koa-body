@@ -14,7 +14,7 @@
  * Module dependencies.
  */
 
-var buddy = require('co-body');
+var buddy = require('zan-co-body');
 var forms = require('formidable');
 
 /**

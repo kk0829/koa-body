@@ -1,6 +1,6 @@
 {
-  "name": "koa-body",
-  "version": "2.5.0",
+  "name": "zan-koa-body",
+  "version": "0.0.1",
   "description": "A koa body parser middleware. Support multipart, urlencoded and json request bodies.",
   "main": "index.js",
   "types": "./index.d.ts",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dlau/koa-body.git"
+    "url": "git@github.com:kk0829/koa-body.git"
   },
   "keywords": [
     "koa",
@@ -35,8 +35,8 @@
     "package.json"
   ],
   "dependencies": {
-    "co-body": "^5.1.1",
-    "formidable": "^1.1.1"
+    "formidable": "^1.1.1",
+    "zan-co-body": "0.0.1"
   },
   "devDependencies": {
     "@types/koa": "^2.0.39",
